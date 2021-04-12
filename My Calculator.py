@@ -7,7 +7,7 @@ print("1. to add, use + ")
 print("2. to ditract, use -")
 print("3. to devide, use /")
 print("4. to multiply, use *")
-print("5. to exponent(power), use **")
+print("5. to exponent(to the power), use **")
 print()
 while(1):
     try:
