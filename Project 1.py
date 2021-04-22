@@ -14,3 +14,5 @@ Ahsan
 Raiyan
 Akash
 ''')
+#This following passage can also be written as this:
+print("Iftikhar Shams \nNiloy \nIsmail \nKhaled \nAhsan \nRaiyan \nAkash")
