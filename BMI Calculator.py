@@ -12,3 +12,7 @@ if gender == "Male":
         male_bmi = male_weight / (male_height_meter * male_height_meter)
 
         print("Your BMI is :",float (male_bmi))
+#Make a review option
+#Make a BMR option
+#Make the Female section
+#Complete any unfinished part
