@@ -1,5 +1,5 @@
 bmi1= input("Do you want to know your BMI?(Yes/No):")
-
+#BMI CALCULAOR
 if bmi1 == "Yes":
     real_height = float(input("What is your height(cm)?:"))
     real_weight = float(input("What is your weight(kg)?:"))
@@ -7,7 +7,7 @@ if bmi1 == "Yes":
     real_bmi = real_weight / (real_height_meter * real_height_meter)
     print("Your BMI is :", float(real_bmi))
     review = input("\nDo you want a Review on your health condition?: (Yes/No):")
-
+#BMR Calculator
     if review == "Yes":
         if real_bmi <= 18.5:
             print('''You are underweight. You need to gain weight by eating healthy foods.
