@@ -16,3 +16,5 @@ Akash
 ''')
 #This following passage can also be written as this:
 print("Iftikhar Shams \nNiloy \nIsmail \nKhaled \nAhsan \nRaiyan \nAkash")
+#Good website to learn languages--->>>
+#https://www.codecademy.com/welcome/find-a-course/search
