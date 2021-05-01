@@ -20,3 +20,5 @@ print(name[-3])
 print(name[0:8])
 print(name[1:7])
 print(name[-5:-1])
+print(name[::-1]) # This will reverse the string!!!
+
