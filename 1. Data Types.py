@@ -22,7 +22,7 @@ print(cgpa)
 # 3. Stings str()
 print("\n***Strings***\n")
 name = "Niloy"
-age = str(20) #It makes 20 (Which is an integer
+age = str(20) #It makes 20 (Which is an integer)
 print(type(name))
 print(type(age))
 print(name + age)
