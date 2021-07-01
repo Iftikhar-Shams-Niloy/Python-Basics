@@ -9,4 +9,4 @@ elif num >= 3000.01 and num <= 4500.00:
     print("Your Tax : %.2f" %result2)
 elif num > 4500.00:
     result3 = (1000*0.08)+(1500*.18)+((num-4500)*0.28)
-    print("Your Tax: %.2f" %result3)
+    print("Your Income-Tax : %.2f" %result3)
