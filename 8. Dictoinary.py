@@ -30,10 +30,10 @@ print("Fruit Color:",dictionary2[fruit_name])
 print("\n>>> Example-3:")
 dictionary3 = {"name":"Niloy", "roll" : 21101124}
 print(dictionary3)
-print(dictionary3["roll"]) #First print
+print(dictionary3["roll"]) #Printing roll before modifying
 dictionary3["roll"] = 5916
 print(dictionary3)
-print(dictionary3["roll"]) #second one to know if the
+print(dictionary3["roll"]) #Printing roll after modifying
 dictionary3["college roll"] = 10748 # Adding new item !!!
 print(dictionary3)
 my_dict1 = (dictionary3.popitem()) # Pops out the last element in th dictionary.
@@ -46,3 +46,5 @@ print("\n>>> Example 4:")
 dictionary4 = {1 : [1,2,3], 2 : [4,5,6]}
 print(dictionary4[1])
 print(dictionary4[2])
+print(dictionary4[1][2])#getting access of the list inside the dictionary key:1
+print(dictionary4[2][1])#getting access of the list inside the dictionary key:2
