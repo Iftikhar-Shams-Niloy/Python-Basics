@@ -90,13 +90,3 @@ list2 = [4,5,6,7,8]
 list3 = [1,2,3]
 print("1.",list1+list2) #Adds list2 elements in the end of list1 then prints
 print("2.",list1*2) #Adds list1 elements in the end of list1 multiple times(Here it's 1 time) then prints
-
-#Tuples :
-print("\n>>> Tuples : ")
-names2 = ("Niloy", "Shams", "Iftikhar")
-# tuples are lists but you can't modify them
-# Tuples are immutable
-print(type(names2))
-print(names2)
-print(names2[1])
-# If we try to modify or change a tuple, the program will going to break and show an error!!!
