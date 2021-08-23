@@ -99,7 +99,7 @@ This happens because we didn't use the .copy() function. Now, we notice that
 for dictionary6_2 nothing has changed in dictionary6'''
 
 #Taking dictionary as input (Using Loops) :
-print("\n>>> Taking dictionary as input (Using Loops):")
+print("\n>>> Taking dictionary as input (Using Loops)")
 dictionary7 = {}
 n = int(input("How many key-value pairs do you want to add?"))
 for i in range(n):
@@ -109,7 +109,7 @@ for i in range(n):
 print("dictionary7 :",dictionary7)
 
 #Taking dictionary as input in a single line:
-print("\n>>> Taking dictionary as input in a single line:")
+print("\n>>> Taking dictionary as input in a single line")
 user_input = input("Enter (key:value) pairs using coma(,) :")
 dictionary8 = {}
 list1 = user_input.split(",")
