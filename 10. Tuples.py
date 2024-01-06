@@ -4,7 +4,7 @@ by commas. Tuples are similar to list in many ways. Lists are
 mutable but tuples are immutable(We can not change anything inside a tuple)."""
 print("\n>>> Tuples : ")
 tuple1 = ("Niloy", "Shams", "Iftikhar")
-# tuples are lists but you can't modify them
+# tuple have characteristics like list but you can't modify them
 # Tuples are immutable
 print(type(tuple1))
 print("tuple1:",tuple1)
