@@ -1,7 +1,7 @@
 # Python Basics
 
-This repository holds multiple .py files, each dedicated for important concept and data types in python. The codes are easy to read and has detailed comments about how a function or method is working. Copy and paste the codes in your interpreter to work with it.<br>
-I would suggest to go through the other codes and study about it, before going through the mini "Project" codes.
+This repository holds multiple _Python_ files, each dedicated for important concept and data types in python. The codes are easy to read and has detailed comments about how a function or method is working. Copy and paste the codes or download or clone the repository locally and test out the codes.<br>
+It is suggested to go through the other codes and study about it, before going through the mini "Project" codes.
 
 ### Pre-requisite
 <ul>
